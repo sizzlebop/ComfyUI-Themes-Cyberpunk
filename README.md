@@ -25,17 +25,17 @@ To install a theme:
 ### Cyber Raspberry
 ![Cyber Raspberry Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015417/cyber-raspberry_ro7dyi.png)
 
-### Cyber Noir
-![Cyber Noir Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015417/cyber-noir_ezy9ld.png)
-
 ### Matrix Glow
 ![Matrix Glow Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015417/matrix-glow_pz6eex.png)
 
-### Toxic Neon
-![Toxic Neon Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015418/toxic-neon_pqzpcz.png)
+### Cyber Noir
+![Cyber Noir Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015417/cyber-noir_ezy9ld.png)
 
 ### Neon Pulse
 ![Neon Pulse Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015418/neon-pulse_qedtqf.png)
+
+### Toxic Neon
+![Toxic Neon Theme](https://res.cloudinary.com/di7ctlowx/image/upload/v1741015418/toxic-neon_pqzpcz.png)
 
 ## Author 👩‍💻
 
